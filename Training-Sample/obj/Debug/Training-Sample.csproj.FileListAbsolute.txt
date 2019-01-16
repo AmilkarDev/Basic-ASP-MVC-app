@@ -1,0 +1,44 @@
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\obj\Debug\Training-Sample.csproj.CoreCompileInputs.cache
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\Training-Sample.dll.config
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\Training-Sample.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\Training-Sample.pdb
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Helpers.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Mvc.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Razor.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Webpages.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Webpages.Razor.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Razor.xml
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Webpages.xml
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Webpages.Razor.xml
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Helpers.xml
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\bin\System.Web.Mvc.xml
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\obj\Debug\Training-Sample.dll
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\obj\Debug\Training-Sample.pdb
+C:\Users\Malek\source\repos\Training-Sample\Training-Sample\obj\Debug\Training-Sample.csprojResolveAssemblyReference.cache
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\Training-Sample.dll.config
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\Training-Sample.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\Training-Sample.pdb
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Helpers.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Mvc.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Razor.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Webpages.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Webpages.Razor.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Razor.xml
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Webpages.xml
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Webpages.Razor.xml
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Helpers.xml
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\bin\System.Web.Mvc.xml
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\obj\Debug\Training-Sample.csprojResolveAssemblyReference.cache
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\obj\Debug\Training-Sample.csproj.CoreCompileInputs.cache
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\obj\Debug\Training-Sample.dll
+C:\Users\Malek\Desktop\Nouveau dossier\Training-Sample\Training-Sample\obj\Debug\Training-Sample.pdb
